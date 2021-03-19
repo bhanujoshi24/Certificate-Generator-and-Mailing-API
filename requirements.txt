@@ -7,7 +7,7 @@ dj-database-url==0.5.0
 Django==3.0.2
 django-crispy-forms==1.8.1
 django-storages==1.9.1
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 docx==0.2.4
 docx2pdf==0.1.7
 dropbox==9.4.0
